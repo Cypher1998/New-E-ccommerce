@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Airpod Bi-color",
+    "price": 3500,
+    "image": "Images/Airpod Bi-color.jpeg",
+    "url": "Product/Airpod.html"
+  },
+  {
+    "name": "Men's Luxury Watch",
+    "price": 7500,
+    "image": "Images/Men's watch.jpeg",
+    "url": "Product/MensWatch.html"
+  },
+  {
+    "name": "Women's Luxury Watch",
+    "price": 5500,
+    "image": "Images/Women's Watch.jpeg",
+    "url": "Product/WomensWatch.html"
+  },
+  {
+    "name": "Power Bank 20000mAh",
+    "price": 10500,
+    "image": "Images/Power bank 20000mAh.jpeg",
+    "url": "Product/PowerBank.html"
+  },
+  {
+    "name": "OneEar Bluetooth",
+    "price": 2000,
+    "image": "Images/OneEar Bluetooths.jpeg",
+    "url": "Product/OneEar.html"
+  },
+  {
+    "name": "Magnetic Bluetooth",
+    "price": 2500,
+    "image": "Images/Magnetic bluetooth.jpeg",
+    "url": "Product/Magnetic.html"
+  },
+  {
+    "name": "Headset Colour-1",
+    "price": 4500,
+    "image": "Images/Bluetooth Headset.jpeg",
+    "url": "Product/Headset.html"
+  },
+  {
+    "name": "Charger (Fast Charge)",
+    "price": 3000,
+    "image": "Images/Charger1.jpeg",
+    "url": "Product/Charger.html"
+  },
+  {
+    "name": "Airpod Bi-color",
+    "price": 3500,
+    "image": "Images/Airpod Bi-color.jpeg",
+    "url": "Product/Airpod.html"
+  },
+  {
+    "name": "Men's Luxury Watch",
+    "price": 7500,
+    "image": "Images/Men's watch.jpeg",
+    "url": "Product/MensWatch.html"
+  },
+  {
+    "name": "Women's Luxury Watch",
+    "price": 5500,
+    "image": "Images/Women's Watch.jpeg",
+    "url": "Product/WomensWatch.html"
+  },
+  {
+    "name": "Power Bank 20000mAh",
+    "price": 10500,
+    "image": "Images/Power bank 20000mAh.jpeg",
+    "url": "Product/PowerBank.html"
+  },
+  {
+    "name": "OneEar Bluetooth",
+    "price": 2000,
+    "image": "Images/OneEar Bluetooths.jpeg",
+    "url": "Product/OneEar.html"
+  },
+  {
+    "name": "Magnetic Bluetooth",
+    "price": 2500,
+    "image": "Images/Magnetic bluetooth.jpeg",
+    "url": "Product/Magnetic.html"
+  },
+  {
+    "name": "Headset Colour-1",
+    "price": 4500,
+    "image": "Images/Bluetooth Headset.jpeg",
+    "url": "Product/Headset.html"
+  },
+  {
+    "name": "Charger (Fast Charge)",
+    "price": 3000,
+    "image": "Images/Charger1.jpeg",
+    "url": "Product/Charger.html"
+  }
+]
