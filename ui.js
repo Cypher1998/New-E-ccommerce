@@ -31,15 +31,19 @@ class UI {
   filterProducts(text) {
     // get all products to filter
     const parentElements = document.querySelectorAll('.product');
+    
+    // regexp
+    const regex = new RegExp(`${text}`, 'gi');
 
     parentElements.forEach((parentElement) => {
       /* set a var to the content of element to be used as filter paramater */
-      const item =
+      const items =
         parentElement.firstElementChild.firstElementChild.nextElementSibling
           .firstElementChild.textContent;
 
-      // check if (text) is present in (item)
-      if (item.toLowerCase().indexOf(text) != -1) {
+      if (items.split().filter((item) => {
+        return item.match(regex)
+      }).length > 0) {
         parentElement.style.display = 'inline-block';
       } else {
         parentElement.style.display = 'none';
