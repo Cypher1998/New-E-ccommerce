@@ -134,7 +134,7 @@ if (document.getElementById('cart')) {
     // console.log(itemPrice);
     const finalCartTotal = initCartTotal - itemPrice;
 
-    document.getElementById('totalPrice').textContent = finalCartTotal;
+    document.getElementById('totalPrice').textContent = finalCartTotal || 0;
 
     e.preventDefault();
   });
